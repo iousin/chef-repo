@@ -1,2 +1,3 @@
 # chef-repo
-Sample chef repo
+
+Chef repo for practice.
